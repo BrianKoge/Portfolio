@@ -12,7 +12,8 @@ This is my personal portfolio website built using **HTML** and **CSS** only. It 
 
 ## Live Preview
 
-You can open the `index.html` file in your browser to view the portfolio.
+click on https://brian-k-portfolio.netlify.app/ to view the portfolio
+
 
 ## Technologies Used
 
