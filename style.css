@@ -86,7 +86,7 @@ ul {
 
 /* Mobile Menu Toggle */
 .mobile-menu-toggle {
-  display: flex; /* Temporarily show on all screens for testing */
+  display: none; /* Hidden on desktop, shown on mobile */
   flex-direction: column;
   cursor: pointer;
   padding: 0.5rem;
